@@ -1,0 +1,7 @@
+public class AppRegistraAluno2 {
+   public static void main(String[] args) {
+    RegistraAluno aluno = new RegistraAluno();
+    aluno.setNome("damiana");
+    aluno.imprimir(100, 100, 100);
+   } 
+}
